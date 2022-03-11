@@ -80,3 +80,9 @@ body {
 .modal-body {
   background: #d1c4e9;
 }
+
+@media only screen and (max-width: 768px) {
+  .reservationBtn{
+    margin-top: 30px;
+  }
+}
